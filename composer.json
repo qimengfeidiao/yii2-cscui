@@ -1,8 +1,5 @@
 {
-    // package name
     "name": "ydyl/yii2-cscui",
-
-    // package type
     "type": "yii2-extension",
 
     "description": "The Imagine integration for the Yii framework",
@@ -21,13 +18,9 @@
             "email": "zhangjiangwe@163.com"
         }
     ],
-
-    // package dependencies
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
-
-    // class autoloading specs
     "autoload": {
         "psr-4": {
             "ydyl\\cscui\\": ""
